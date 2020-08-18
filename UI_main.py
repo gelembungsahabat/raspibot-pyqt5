@@ -64,7 +64,7 @@ class Ui_Form(object):
 
     def retranslateUi(self, Form):
         _translate = QtCore.QCoreApplication.translate
-        Form.setWindowTitle(_translate("Form", "Form"))
+        Form.setWindowTitle(_translate("Form", "Raspibot-PyQt5"))
         self.pushButton_4.setText(_translate("Form", "Mundur"))
         self.pushButton_5.setText(_translate("Form", "Kanan"))
         self.pushButton_6.setText(_translate("Form", "Kiri"))
