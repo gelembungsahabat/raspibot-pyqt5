@@ -1,7 +1,7 @@
 # raspibot-pyqt5
-bikin GUI pake pyqt5 buat raspibot yang diakses pake VNC
+Bikin GUI pake pyqt5 buat raspibot yang diakses pake VNC
 
-## cara pakai 
+## Cara Pakai 
 
 1. sambungkan laptop dengan raspberry via VNC (remote desktop)
 
@@ -13,6 +13,10 @@ bikin GUI pake pyqt5 buat raspibot yang diakses pake VNC
 4. have fum! ^^
 
 
+## Fungsi dari tiap file
+1. main.py = program intinya
+2. UI_main.py = program buat tampilan GUI yang digenerate dari QTdesigner
+3. main.ui = file project QTdesigner
 
 
 
@@ -21,5 +25,4 @@ bikin GUI pake pyqt5 buat raspibot yang diakses pake VNC
 
 
 
-
-# python is fum!
+# Python is Fum!
