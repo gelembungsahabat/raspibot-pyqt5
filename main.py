@@ -97,7 +97,7 @@ class MainWindow(QWidget):
             # data = str("a")
             # serialData.write(data.encode())
 
-    #fungsi buat deteksi tombol keyboardnya telah dilepas (key_release)
+    ##fungsi buat deteksi tombol keyboardnya telah dilepas (key_release)
     def stop(self):
         print("stop!")
 
