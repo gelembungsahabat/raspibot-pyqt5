@@ -71,7 +71,7 @@ class MainWindow(QWidget):
             self.close()
 
 
-    ##ini buat ngakses tombolnya pake keyboard
+    ##ini buat ngakses tombolnya pake keyboard trus ngirim data serial berupa karakter
     def keyReleaseEvent(self, event):
         ##tombol arah atas
         if event.key() == Qt.Key_Up:
