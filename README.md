@@ -1,5 +1,6 @@
 # raspibot-pyqt5
-Bikin GUI pake pyqt5 buat raspibot yang diakses pake VNC
+Bikin GUI pake pyqt5 buat raspibot yang diakses pake VNC. 
+Pastikan kamu telah menginstall OpenCV, PyQt5, dan pyserial yaa..
 
 ## Cara Pakai 
 
