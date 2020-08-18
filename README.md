@@ -14,8 +14,11 @@ Bikin GUI pake pyqt5 buat raspibot yang diakses pake VNC
 
 
 ## Fungsi dari tiap file
+
 1. main.py = program intinya
+
 2. UI_main.py = program buat tampilan GUI yang digenerate dari QTdesigner
+
 3. main.ui = file project QTdesigner
 
 
