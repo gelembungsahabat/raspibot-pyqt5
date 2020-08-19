@@ -20,7 +20,7 @@ Pastikan kamu telah menginstall OpenCV, PyQt5, dan pyserial yaa..
 
 2. UI_main.py = program buat tampilan GUI yang digenerate dari QTdesigner
 
-3. main.ui = file project QTdesigner
+3. UI_main.ui = file project QTdesigner
 
 
 
